@@ -1,0 +1,2 @@
+Approach 1:
+Given that the majority elements occurs more than n/2 times in the array. So in a sorted list, the middle element would be the majority element.
